@@ -8,7 +8,7 @@
 ## Grade
 Validated: **13/07/2024**
 
-Grade: ✅ **100%** ✅ (Full Score)
+Grade: ✅ **100%** ✅
 
 ![Grade](https://github.com/wakhoo/42_philosophers/blob/main/assets/Screenshot%202025-07-21%20at%2011-38-13%20Intra%20Projects%20Philosophers.png?raw=true)
 
